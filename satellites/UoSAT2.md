@@ -36,7 +36,7 @@ Please enjoy my collected information about this very special satellite!
 
 On March 1st, 1984... UoSAT-2 was launched from Vandenberg SLC-2W on a Delta 3920 Rocket, hitching a ride from the LANDSAT-5 mission
 
-I was able to find this video deeply hidden on the University of Surrey servers - sit back and enjoy this lovely outline of the satellite created by Harold Price, NK6K!
+I was able to find this video deeply hidden on the University of Surrey servers - sit back and enjoy this lovely clip of the satellite created by **Harold Price, NK6K**!
 
 <video controls>
     <source src="{{ site.my-media-path }}files/uosat-2-coming-home.mp4" type="video/mp4">
