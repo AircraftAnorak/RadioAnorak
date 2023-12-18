@@ -1,0 +1,24 @@
+title: Radio Anorak
+description: Amateur Radio Projects - continuation of Aircraft Anorak
+theme: just-the-docs
+
+markdown: kramdown
+
+url: https://AircraftAnorak.github.io
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+color_scheme: dark
+
+aux_links: false
+
+
+callouts:
+  note:
+    color: purple
+ 
+  info:
+    color: green
+ 
+footer_content: "© Copyright Caspar B Pierce 'Aircraft Anorak' M6OWI/2E0KRH"

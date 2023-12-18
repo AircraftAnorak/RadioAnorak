@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="106mm"
+   height="22.61mm"
+   viewBox="0 0 106 22.61"
+   version="1.1"
+   id="svg46"
+   sodipodi:docname="naca2412-il.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs50" />
+  <sodipodi:namedview
+     id="namedview48"
+     pagecolor="#505050"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.6408412"
+     inkscape:cx="200.12563"
+     inkscape:cy="42.600063"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g34" />
+  <title
+     id="title2">Airfoil plot (naca2412-il) NACA 2412 by AirfoilTools.com</title>
+  <g
+     transform="translate(3,10.88)"
+     id="g36">
+    <g
+       transform="scale(1,-1)"
+       id="g34">
+      <path
+         fill="none"
+         stroke="red"
+         stroke-width="0.1"
+         d="m 100,-2.0741588 -5,1.01 -5,0.94000001 -10,1.66999999 -10,1.43 -10,1.18 -10,0.88 -10,0.56 -10,0.08 -5,-0.21 -5,-0.41 -5,-0.65 -5,-0.98 -2.5,-0.67 -2.5,-0.83 -2.5,-1.13999999 -1.25,-0.84 L 0,-2.2041588 l 1.25,-1.65 1.25,-0.62 2.5,-0.74 2.5,-0.45 2.5,-0.29 5,-0.35 5,-0.13 5,0.01 5,0.1 10,0.32 10,0.46 10,0.58 10,0.62 10,0.64 10,0.68 5,0.34 5,0.35"
+         id="path26"
+         style="stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         fill="none"
+         stroke="#0000ff"
+         stroke-width="0.1"
+         d="M 0,-2.2041588 H 100"
+         id="path28" />
+      <line
+         fill="none"
+         stroke="black"
+         stroke-width="0.1"
+         x1="-3"
+         x2="103"
+         y1="-2.2041588"
+         y2="-2.2041588"
+         id="line30"
+         style="stroke:#97e0e8;stroke-opacity:1" />
+      <line
+         fill="none"
+         stroke="black"
+         stroke-width="0.1"
+         x1="0"
+         x2="0"
+         y1="-9.4341593"
+         y2="8.6758413"
+         id="line32"
+         style="stroke:#97e0e8;stroke-opacity:1" />
+    </g>
+  </g>
+  <metadata
+     id="metadata1987">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Airfoil plot (naca2412-il) NACA 2412 by AirfoilTools.com</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

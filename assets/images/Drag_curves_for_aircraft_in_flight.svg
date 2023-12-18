@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="706.6731"
+   height="503.896"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="Drag_curves_for_aircraft_in_flight.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="245.00719"
+     inkscape:cy="211.25532"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     fit-margin-top="20"
+     fit-margin-left="10"
+     fit-margin-right="20"
+     fit-margin-bottom="10"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:object-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-smooth-nodes="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(80.789415,-125.06147)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;-inkscape-font-specification:Arial;font-stretch:normal;font-variant:normal;"
+       x="-423.34821"
+       y="-47.197037"
+       id="text3006-3"
+       transform="matrix(0,-1.0002196,0.99978043,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3008-6"
+         x="-423.34821"
+         y="-47.197037"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.5650444px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;">Drag Force</tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.638;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -5.688139,145.63059 0,414.23037 611.002689,0"
+       id="path2985"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;-inkscape-font-specification:Arial;font-stretch:normal;font-variant:normal;"
+       x="202.5825"
+       y="611.28638"
+       id="text3006"
+       transform="scale(0.99978043,1.0002196)"><tspan
+         sodipodi:role="line"
+         id="tspan3008"
+         x="202.5825"
+         y="611.28638"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.5650444px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;">Flight Velocity</tspan></text>
+    <path
+       style="fill:none;stroke:#365d8d;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 35.236575,551.49986 C 242.99495,515.90896 447.86773,380.05108 564.38985,210.68422"
+       id="path3031"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3035"
+       d="M 564.38985,544.05814 C 301.23822,505.68002 110.99111,440.07444 35.23656,194.14711"
+       style="fill:none;stroke:#1f978b;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#dc45e1;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 35.23657,185.92985 c 29.999554,72.51239 73.51304,188.75609 227.65473,199.10391 103.53675,6.95063 252.42751,-131.5238 301.49856,-190.01702"
+       id="path3039"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#dc45e1;fill-opacity:0.97647059;stroke:none"
+       x="365.02789"
+       y="250.90649"
+       id="text3006-7"
+       transform="scale(0.99978044,1.0002196)"><tspan
+         sodipodi:role="line"
+         id="tspan3008-5"
+         x="365.02789"
+         y="250.90649"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.70451927px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#dc45e1;fill-opacity:0.97647059">Total Drag</tspan></text>
+    <text
+       id="text3972"
+       y="494.48123"
+       x="374.147"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#1f978b;fill-opacity:1;stroke:none;-inkscape-font-specification:Arial;font-stretch:normal;font-variant:normal;"
+       xml:space="preserve"
+       transform="scale(0.99978043,1.0002196)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.70451927px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#1f978b;fill-opacity:1;"
+         y="494.48123"
+         x="374.147"
+         id="tspan3974"
+         sodipodi:role="line">Lift-induced Drag</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#365d8d;fill-opacity:1;stroke:none;-inkscape-font-specification:Arial;font-stretch:normal;font-variant:normal;"
+       x="36.735752"
+       y="494.48123"
+       id="text3976"
+       transform="scale(0.99978043,1.0002196)"><tspan
+         sodipodi:role="line"
+         id="tspan3978"
+         x="36.735752"
+         y="494.48123"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.70451927px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#365d8d;fill-opacity:1;">Parasitic Drag</tspan></text>
+  </g>
+</svg>
