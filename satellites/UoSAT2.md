@@ -22,7 +22,6 @@ I feel it is very fitting for me to write up about this satellite, at the time o
 
 Please enjoy my collected information about this very special satellite!
 
-
 <details open markdown="block">
   <summary>
     Table of contents
@@ -31,6 +30,11 @@ Please enjoy my collected information about this very special satellite!
 1. TOC
 {:toc}
 </details>
+
+<br>
+![UoSAT-2](images/uosat-2-card.gif)<br>
+UOSAT-OSCAR-II Mission Card
+{: .lh-tight .fs-2 }
 
 # History
 
@@ -44,9 +48,15 @@ I was able to find this video deeply hidden on the *University of Surrey* server
 Recovered video from UoS file server, video credit Harold Price, NK6K
 {: .lh-tight .fs-2 }
 
+Did you know, UO-11 was the most rapidly designed OSCAR satellite - from concept to launch in only 5 months!
+
+It was joked by **Martin Sweeting (G3YJO)**, who pioneered the smallsat revolution with UoSAT-1 + UoSAT-2 and is one of the founders for SSTL, on a video from 2020 that they were still building the satellite hardware on the launchpad but wouldn't dare to tell anyone at the time
+
+UO-11 was also the first amateur satellite to carry a digital communications package to Earth orbit and the first to be controlled by a CPU running software written in the high-level programming language 'Forth'
+
 <br>
-![UoSAT-2](images/uosat-2-card.gif)<br>
-UOSAT-OSCAR-II Mission Card
+![UoSAT-2](images/UoSAT-2_MartinSweeting.png){: width="250" }<br>
+Famous image of Martin Sweeting (G3YJO), <br>listening to the UO-11 digitalker on a handheld<br> radio ontop of the now 'Block BB' building on the<br> University of Surrey campus
 {: .lh-tight .fs-2 }
 
 # Recieving
